@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ColombianJoker
-- 👀 I’m interested in Big Data, AIX, Linux and Python
+- 👀 I’m interested in Big Data, AIX, Linux, Julia, DuckDB, Redis and Python
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Science python programming
+- 💞️ I’m looking to collaborate on Data Science Julia and Python programming
 - 📫 How to reach me RamonBarriosLascar@GMail.com
 
 <!---
