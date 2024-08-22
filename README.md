@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ColombianJoker
-- 👀 I’m interested in Big Data, AIX, Linux, Julia, DuckDB, Redis and Python
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Science Julia and Python programming
-- 📫 How to reach me RamonBarriosLascar@GMail.com
+- 👋 Hi, I’m **@ColombianJoker**
+- 👀 I’m interested in _Big Data_, AIX, Linux, Julia, DuckDB, Redis and Python
+- 🌱 I’m currently learning _Data Science_
+- 💞️ I’m looking to collaborate on _Data Science_, _Julia_ and _Python_ programming
+- 📫 How to reach me `RamonBarriosLascar@GMail.com`
 
 <!---
 ColombianJoker/ColombianJoker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
